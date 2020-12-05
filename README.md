@@ -10,8 +10,13 @@ Tried doing a simple chat application to learn different concepts of sockets lik
 
 ## How to run ?
 
-Install all the dependencies and use the following command.
+Install all the dependencies
+
+```js
+npm install
+```
+Run using
 
 ```
-nodemon index.js
+npm start 
 ```
